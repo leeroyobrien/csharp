@@ -1,0 +1,10 @@
+C:\Users\rll6ib\Documents\Leeroy\C_sharp\oef1\oef1\bin\Debug\oef1.exe.config
+C:\Users\rll6ib\Documents\Leeroy\C_sharp\oef1\oef1\bin\Debug\oef1.exe
+C:\Users\rll6ib\Documents\Leeroy\C_sharp\oef1\oef1\bin\Debug\oef1.pdb
+C:\Users\rll6ib\Documents\Leeroy\C_sharp\oef1\oef1\obj\Debug\oef1.csprojAssemblyReference.cache
+C:\Users\rll6ib\Documents\Leeroy\C_sharp\oef1\oef1\obj\Debug\oef1.Form1.resources
+C:\Users\rll6ib\Documents\Leeroy\C_sharp\oef1\oef1\obj\Debug\oef1.Properties.Resources.resources
+C:\Users\rll6ib\Documents\Leeroy\C_sharp\oef1\oef1\obj\Debug\oef1.csproj.GenerateResource.cache
+C:\Users\rll6ib\Documents\Leeroy\C_sharp\oef1\oef1\obj\Debug\oef1.csproj.CoreCompileInputs.cache
+C:\Users\rll6ib\Documents\Leeroy\C_sharp\oef1\oef1\obj\Debug\oef1.exe
+C:\Users\rll6ib\Documents\Leeroy\C_sharp\oef1\oef1\obj\Debug\oef1.pdb
